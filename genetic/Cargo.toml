@@ -1,0 +1,8 @@
+[package]
+name = "genetic"
+version = "0.1.0"
+authors = ["Hnatekmar <m.hnatma@gmail.com>"]
+
+[dependencies]
+num-traits = "0.2"
+rand = "0.6"
